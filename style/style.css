@@ -65,11 +65,13 @@ body {
 
 .title-exp {
     padding-left: 5px;
+    margin-bottom: 8px;
 }
 
 /*########### skills ###########*/
 
 .skills {
+    margin-top: 0;
     width: 350px;
     padding: 24px;
 }
