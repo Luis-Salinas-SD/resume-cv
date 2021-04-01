@@ -40,6 +40,7 @@ body {
     padding: 5px;
     display: flex;
     margin: 6px 0px;
+    align-items: center;
 }
 
 .about {
