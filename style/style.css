@@ -2,6 +2,10 @@ body {
     background-color: antiquewhite;
 }
 
+.b-b {
+    border: #000000 solid 2px;
+}
+
 .main {
     width: 60vw;
     height: 100%;
