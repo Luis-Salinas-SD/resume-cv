@@ -7,9 +7,9 @@ body {
 }
 
 .main {
-    width: 60vw;
+    width: 50vw;
     height: 100%;
-    background-color: #fff;
+    background-color: rgb(255, 255, 255);
     margin: auto;
     -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0.41);
     box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0.41);
@@ -61,7 +61,7 @@ body {
 .work {
     /* background-color: royalblue; */
     width: 100%;
-    padding: 24px;
+    padding: 5px;
     margin-bottom: 0;
 }
 
@@ -79,7 +79,7 @@ body {
 .skills {
     margin-top: 0;
     width: 350px;
-    padding: 24px;
+    padding: 5px;
 }
 
 /** Resposive  */
